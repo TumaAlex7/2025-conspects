@@ -7,3 +7,6 @@
 ## Контакты:
 * **Telegram** @arinafilimonova
 * **Tg-конфа** https://t.me/+FQzXh_arC2pjNzEy
+
+## Оглавление
+- [2025.09.05-Практика](./2025.09.05-Практика.md)
